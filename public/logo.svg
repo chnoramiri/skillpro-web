@@ -1,0 +1,33 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer hexagon -->
+  <polygon
+    points="128,20 44,76 44,180 128,236 212,180 212,76"
+    fill="none"
+    stroke="#61DAFB"
+    stroke-width="12"
+    stroke-linejoin="round"
+  />
+
+  <!-- Inner hexagon for depth -->
+  <polygon
+    points="128,48 70,88 70,168 128,208 186,168 186,88"
+    fill="none"
+    stroke="#61DAFB"
+    stroke-width="6"
+    stroke-linejoin="round"
+    opacity="0.6"
+  />
+
+  <!-- Center S -->
+  <text
+    x="50%"
+    y="57%"
+    text-anchor="middle"
+    font-size="120"
+    font-family="Segoe UI, sans-serif"
+    font-weight="700"
+    fill="#61DAFB"
+  >
+    S
+  </text>
+</svg>
