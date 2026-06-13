@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SkillForge.dev",
-  description: "Build and learn with SkillForge.dev",
+  title: "SkillPro.dev",
+  description: "Build and learn with SkillPro.dev",
   icons: {
     icon: "/logo.svg",
     shortcut: "/logo.svg",
@@ -40,12 +40,12 @@ export default function RootLayout({
             <Link href="/" className="flex items-center gap-3">
               <Image
                 src="/logo.svg"
-                alt="SkillForge.dev logo"
+                alt="SkillPro.dev logo"
                 width={36}
                 height={36}
               />
               <span className="text-lg font-bold text-black dark:text-white">
-                SkillForge.dev
+                SkillPro.dev
               </span>
             </Link>
             <div className="flex gap-6">

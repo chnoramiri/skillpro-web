@@ -5,7 +5,7 @@ export default function About() {
     <div className="flex flex-col items-center justify-start min-h-screen bg-zinc-50 dark:bg-black py-12 px-4">
       <main className="w-full max-w-2xl">
         <h1 className="text-4xl md:text-5xl font-bold text-black dark:text-white mb-6">
-          About SkillForge.dev
+          About SkillPro.dev
         </h1>
 
         <section className="mb-8">
@@ -13,7 +13,7 @@ export default function About() {
             Our Mission
           </h2>
           <p className="text-lg text-zinc-600 dark:text-zinc-400 leading-relaxed">
-            SkillForge.dev is dedicated to empowering individuals to build,
+            SkillPro.dev is dedicated to empowering individuals to build,
             learn, and grow. We believe in providing accessible tools and
             resources that help people master new skills and achieve their
             goals.

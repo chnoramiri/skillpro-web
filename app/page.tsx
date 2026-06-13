@@ -5,7 +5,7 @@ export default function Home() {
     <div className="flex flex-col items-center justify-center min-h-screen bg-zinc-50 dark:bg-black py-12 px-4">
       <main className="w-full max-w-2xl">
         <h1 className="text-4xl md:text-5xl font-bold text-black dark:text-white mb-6">
-          Welcome to SkillForge.dev
+          Welcome to SkillPro.dev
         </h1>
         <p className="text-lg text-zinc-600 dark:text-zinc-400 mb-8">
           Discover a new way to build and learn. Start exploring today.

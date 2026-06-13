@@ -1,5 +1,5 @@
-# skillforge-web
-SkillForge is a space where I forge my skills by building projects and writing articles about every new topic I learn on my journey as a frontend developer.
+# skillpro-web
+SkillPro is a space where I forge my skills by building projects and writing articles about every new topic I learn on my journey as a frontend developer.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
