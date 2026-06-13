@@ -13,10 +13,9 @@ export default function About() {
             Our Mission
           </h2>
           <p className="text-lg text-zinc-600 dark:text-zinc-400 leading-relaxed">
-            SkillPro.dev is dedicated to empowering individuals to build,
-            learn, and grow. We believe in providing accessible tools and
-            resources that help people master new skills and achieve their
-            goals.
+            SkillPro.dev is dedicated to empowering individuals to build, learn,
+            and grow. We believe in providing accessible tools and resources
+            that help people master new skills and achieve their goals.
           </p>
         </section>
 
